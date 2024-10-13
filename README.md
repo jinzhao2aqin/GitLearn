@@ -1,2 +1,2 @@
 # GitLearn
-学习git和github使用
+记录git和github学习和使用笔记
