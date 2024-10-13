@@ -8,7 +8,12 @@ $ git config --global user.name "ABC"
 $ git config --global user.email "ABC@example.com"
 ```
 
-# 无法正常提交问题
+## 无法正常提交问题
 
 解决办法：取消勾选Use Editor As Commit Input  
 参考链接：https://blog.csdn.net/weixin_38120390/article/details/137259188
+
+## 配置github SSHkey方便推送代码
+
+参考链接：https://baijiahao.baidu.com/s?id=1806438139794411540&wfr=spider&for=pc  
+
