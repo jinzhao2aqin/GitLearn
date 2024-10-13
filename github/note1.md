@@ -22,3 +22,8 @@ $ git config --global user.email "ABC@example.com"
 
 参考链接：https://blog.csdn.net/qq_52251819/article/details/140442259
 
+
+## 学习VScode的git插件，并安装
+
+参考视频：https://www.bilibili.com/video/BV1w14y1C7oi/?spm_id_from=333.337.search-card.all.click&vd_source=b33e62022ff8608e4e29ce89dfc1283a   
+
