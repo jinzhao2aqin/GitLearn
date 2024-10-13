@@ -10,5 +10,5 @@ $ git config --global user.email "ABC@example.com"
 
 # 无法正常提交问题
 
-解决办法：取消勾选Use Editor As Commit Input
+解决办法：取消勾选Use Editor As Commit Input  
 参考链接：https://blog.csdn.net/weixin_38120390/article/details/137259188
