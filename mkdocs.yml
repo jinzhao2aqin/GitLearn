@@ -15,6 +15,14 @@ nav:
     - code/index.md
   - Ultrasound:
     - ultrasound/index.md
+  - Material:
+    - material/index.md
+  - Calculate:
+    - calculate/index.md
+  - Technology:
+    - technology/index.md
+  - Tools:
+    - tools/index.md
 
 # [UI]
 # [top]
