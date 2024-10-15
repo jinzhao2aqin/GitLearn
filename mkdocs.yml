@@ -7,3 +7,9 @@ site_description: GitLearn个人资料站
 
 
 
+# [Navigtion]
+nav:
+  - github:
+    - github/note1.md
+    
+
