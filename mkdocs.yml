@@ -5,3 +5,8 @@ site_url: https://yang-xijie.github.io
 site_author: jinzhao
 site_description: GitLearn个人资料站
 
+
+# [Navigtion]
+nav:
+  - github:
+    - github/note1.md
