@@ -1,3 +1,9 @@
+
+# 技术链软件
+- [压力相图计算技术链](note1.md)
+
+# 工具软件
+
 ## 效率软件
 - 解压：7z
 - 搜索：Listary
@@ -22,6 +28,15 @@
 - 图片分析：ImagePro Plus
 - 绘图：Origin Pro
 - 流场：Fluent、编译udf
+
+## 重要网站
+- [sci-hub](https://sci-hub.ren/)
+- [Matlab fileexchange](https://ww2.mathworks.cn/matlabcentral/fileexchange/)
+- [BookLib](http://libgen.rs/)
+- [COMSOL Models](https://cn.comsol.com/models)
+- 
+
+
 
 ## 开源软件
 - MOOSE
