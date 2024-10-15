@@ -15,12 +15,12 @@ $ git config --global user.email "ABC@example.com"
 
 ## 配置github SSHkey方便推送代码
 
-参考链接：https://baijiahao.baidu.com/s?id=1806438139794411540&wfr=spider&for=pc  
+参考链接：https://baijiahao.baidu.com/s?id=1806438139794411540&wfr=spider&for=pc
 
 
 ## 同步master代码到devel分支，然后切换到devel分支
 
-参考链接：https://blog.csdn.net/qq_52251819/article/details/140442259
+参考链接：<https://blog.csdn.net/qq_52251819/article/details/140442259>
 
 
 ## 学习VScode的git插件，并安装

@@ -6,13 +6,15 @@ site_description: GitLearn个人资料站
 # [Navigtion]
 nav:
   - Github:
-    - github/note1.md
+    - github/index.md
   - Markdown:
-    - markdown/note1.md
+    - markdown/index.md
   - Matlab:
-    - matlab/note1.md
+    - matlab/index.md
   - Code:
-    - code/note1.md
+    - code/index.md
+  - Ultrasound:
+    - ultrasound/index.md
 
 # [UI]
 # [top]
