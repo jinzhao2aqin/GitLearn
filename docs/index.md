@@ -1,3 +1,3 @@
 # Welcome
 
-[text](index.md)
+[text](./github/note1.md)
