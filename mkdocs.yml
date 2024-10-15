@@ -5,9 +5,14 @@ site_description: GitLearn个人资料站
 
 # [Navigtion]
 nav:
-  - github:
+  - Github:
     - github/note1.md
-    
+  - Markdown:
+    - markdown/note1.md
+  - Matlab:
+    - matlab/note1.md
+  - Code:
+    - code/note1.md
 
 # [UI]
 # [top]
@@ -72,12 +77,11 @@ edit_uri: edit/main/docs/
 # [top-right corner]
 # [添加 GitHub 仓库]
 # https://squidfunk.github.io/mkdocs-material/setup/adding-a-git-repository/
-repo_url: https://github.com/Yang-Xijie/yang-xijie.github.io
-repo_name: yang-xijie.github.io
+repo_url: https://jinzhao2aqin.github.io/GitLearn/
 # [bottom-left corner]
 # [版权说明]
 # https://squidfunk.github.io/mkdocs-material/setup/setting-up-the-footer/#copyright-notice
-copyright: 杨希杰 CC-BY-4.0
+copyright: jinzhao CC-BY-4.0
 # [bottom-right corner]
 extra:
   # [添加社交网络图标和链接]
@@ -85,24 +89,12 @@ extra:
   # 搜索图标：https://squidfunk.github.io/mkdocs-material/reference/icons-emojis/#search
   # name 会在鼠标悬浮时提示
   social: # icons
-    - name: GitHub | Yang-Xijie
+    - name: GitHub | jinzhao
       icon: fontawesome/brands/github
-      link: https://github.com/Yang-Xijie
-    - name: Bilibili | 杨希杰619
+      link: https://github.com/jinzhao2aqin
+    - name: Bilibili | jinzhao
       icon: fontawesome/brands/bilibili
-      link: https://space.bilibili.com/24502827
-    - name: 小杰答疑群 QQ 796233390
-      icon: fontawesome/brands/qq
-      link: https://yang-xijie.github.io/ME/qq-groups/
-    - name: 小杰水群 QQ 824114857
-      icon: fontawesome/brands/qq
-      link: https://yang-xijie.github.io/ME/qq-groups/
-    - name: 小红书 | 杨希杰
-      icon: fontawesome/solid/images
-      link: https://www.xiaohongshu.com/user/profile/61be0cc10000000021024369
-    - name: 打赏支持
-      icon: fontawesome/solid/mug-saucer
-      link: https://yang-xijie.github.io/ME/support/
+      link: https://space.bilibili.com/15918305
 
 # [Extensions]
 plugins:
@@ -113,7 +105,6 @@ plugins:
       lang:
         - zh
         - en
-        - ja
   # [给单篇文章添加标签]
   # https://squidfunk.github.io/mkdocs-material/setup/setting-up-tags/
   # https://squidfunk.github.io/mkdocs-material/plugins/tags/#meta.tags
