@@ -31,9 +31,6 @@
 - 安全：火绒
 - 虚拟机：VMware Workstation Pro
 
-
-
 ## 其他工具
 - 启动盘：rufus
 - 启动项：EasyBCD
-- 
