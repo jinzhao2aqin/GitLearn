@@ -1,1 +1,9 @@
-site_name: My Docs
+# [Info]
+# 左上角标题
+site_name: GitLearn个人资料站
+site_url: https://yang-xijie.github.io
+site_author: jinzhao
+site_description: GitLearn个人资料站
+
+
+
