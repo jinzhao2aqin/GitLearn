@@ -34,13 +34,12 @@
 - [Matlab fileexchange](https://ww2.mathworks.cn/matlabcentral/fileexchange/)
 - [BookLib](http://libgen.rs/)
 - [COMSOL Models](https://cn.comsol.com/models)
-- 
-
 
 
 ## 开源软件
-- MOOSE
-- AMReX
+- [MOOSE](https://mooseframework.inl.gov/)
+- [AMReX](https://amrex-codes.github.io/)
+- [MTEX](https://mtex-toolbox.github.io/)
 
 ## 其他软件
 - 安全：火绒
