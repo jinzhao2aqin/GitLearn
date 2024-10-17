@@ -3,6 +3,8 @@
 # [Materials Project](https://materialsproject.org/)
 
 # [icet](https://gitlab.com/materials-modeling/icet)
+- [sagar](https://sagar.compphys.cn/sagar)
+- [Special quasirandom structures](https://sharc.materialsmodeling.org/sqs/)
 
 # [Multiwfn](http://sobereva.com/multiwfn)
 
