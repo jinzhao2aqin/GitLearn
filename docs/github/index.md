@@ -31,3 +31,10 @@ $ git config --global user.email "ABC@example.com"
 
 - 参考链接：<https://talk.jekyllrb.com/t/github-pages-no-longer-builds/6335>
 
+## 更改git pull时默认使用rebase而不是merge
+
+```bash
+git config --global pull.rebase true
+```
+
+
