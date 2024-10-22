@@ -90,7 +90,7 @@ edit_uri: edit/devel/docs/
 # [top-right corner]
 # [添加 GitHub 仓库]
 # https://squidfunk.github.io/mkdocs-material/setup/adding-a-git-repository/
-repo_url: https://jinzhao2aqin.github.io/GitLearn/
+# repo_url: https://jinzhao2aqin.github.io/GitLearn/
 # [bottom-left corner]
 # [版权说明]
 # https://squidfunk.github.io/mkdocs-material/setup/setting-up-the-footer/#copyright-notice
