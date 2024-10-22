@@ -122,9 +122,8 @@ plugins:
   # https://squidfunk.github.io/mkdocs-material/setup/setting-up-tags/
   # https://squidfunk.github.io/mkdocs-material/plugins/tags/#meta.tags
   - tags
-  - git-committers:
-      repository: squidfunk/mkdocs-material
-      branch: devel
+  - git-revision-date-localized:
+       enable_creation_date: true
 markdown_extensions:
   # [数学公式支持]
   # https://squidfunk.github.io/mkdocs-material/reference/math/#katex
