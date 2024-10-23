@@ -13,3 +13,6 @@
 
 - 参考链接1：<https://blog.csdn.net/weixin_45967200/article/details/106769367>   
 - 参考链接2：<https://zhuanlan.zhihu.com/p/635487417/>
+
+## Material for MkDocs教程
+- 参考链接：<https://squidfunk.github.io/mkdocs-material/getting-started/#with-pip-latest>
