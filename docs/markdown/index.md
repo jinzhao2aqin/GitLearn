@@ -16,3 +16,7 @@
 
 ## Material for MkDocs教程
 - 参考链接：<https://squidfunk.github.io/mkdocs-material/getting-started/#with-pip-latest>
+
+## Full Width When Viewing HTML
+
+- 参考链接：<https://github.com/shd101wyy/vscode-markdown-preview-enhanced/issues/1178>
