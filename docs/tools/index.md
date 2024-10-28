@@ -9,6 +9,7 @@
   - 解压：[7z](https://www.7-zip.org/)
   - 搜索：[Listary](https://www.listary.com/)
   - 截图：[Snipaste](https://www.snipaste.com/)
+  - 清单：[滴答清单](https://www.dida365.com/)
   - 记录：[Notepad++](https://notepad-plus-plus.org/)
   - 动画：[ScreenToGif](https://www.screentogif.com/)
   - 卸载：[geek UNinstallor](https://geekuninstaller.com/)
