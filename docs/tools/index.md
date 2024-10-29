@@ -36,6 +36,7 @@
   - [Matlab fileexchange](https://ww2.mathworks.cn/matlabcentral/fileexchange/)
   - [BookLib](http://libgen.rs/)
   - [COMSOL Models](https://cn.comsol.com/models)
+  - [Library Genesis](http://libgen.is/) [备用](http://libgen.st/)
 
 
 ### 开源软件
