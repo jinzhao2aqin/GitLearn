@@ -36,5 +36,24 @@ $ git config --global user.email "ABC@example.com"
 ```bash
 git config --global pull.rebase true
 ```
+## nvcc支持OpenMP
+
+```bash
+-Xcompiler -fopenmp
+```
+- 参考链接：<https://cloud.tencent.com/developer/article/1177177>
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
