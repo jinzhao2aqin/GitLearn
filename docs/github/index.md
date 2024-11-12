@@ -43,9 +43,18 @@ git config --global pull.rebase true
 ```
 - 参考链接：<https://cloud.tencent.com/developer/article/1177177>
 
+## nvcc支持OpenMP
 
+```bash
+-Xcompiler -fopenmp
+```
+- 参考链接：<https://cloud.tencent.com/developer/article/1177177>
 
+## bashrc配置不生效
 
+删除~/.bash_profile
+
+- 参考链接：<https://blog.csdn.net/Bling323/article/details/140875437>
 
 
 
