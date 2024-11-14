@@ -5,7 +5,9 @@
 ## [变幅杆](note3.md)
 ## [超声工具](note4.md)
 
-
+# 知识储备学习
+## 振动分析
+- matlab：femodel
 
 
 
