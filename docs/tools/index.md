@@ -54,7 +54,7 @@
   - 圆填充：[packomania](http://www.packomania.com/)
   - 显卡参数对比：[GadgetVersus](https://gadgetversus.com/graphics-card/)
 
-### Linux命令函工具
+### Linux命令行工具
   - grep
   - ffmpeg
   - locate
